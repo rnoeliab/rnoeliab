@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rnoeliab
+- 👋 Hi, I’m Noelia Rojas Benavente
 - 👀 I’m interested in helping people to learn python.
 - 🌱 I’m currently learning data analysis with python.
 - 💞️ I’m looking to collaborate on data analysis
